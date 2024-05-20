@@ -1,0 +1,18 @@
+{
+  "name": "portmyfolio-boilerplate",
+  "version": "1.0.0",
+  "description": "Create your own portfolio website with this Portmyfolio boilerplate",
+  "scripts": {
+    "dev": "portmyfolio dev",
+    "start": "portmyfolio start",
+    "build": "portmyfolio build"
+  },
+  "dependencies": {
+    "next": "^14.1.3",
+    "portmyfolio": "^1.2.24"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.10",
+    "autoprefixer": "^10.4.18"
+  }
+}
